@@ -19,7 +19,7 @@ const Card = ({key, item}) => {
                 <h1>{item.title}</h1>
             </Link>
             <p>
-                Lorem ipsum dolor sit adipisicing elit. Atque harum ex eum numquam in. Illum sapiente nisi asperiores voluptatibus neque!
+                Lorem ipsum dolor sit adipisi cing elit. Atque harum ex eum numquam in. Illum sapiente nisi asperiores voluptatibus neque!
             </p>
             <Link href="">Read More</Link>
 
